@@ -307,6 +307,10 @@ This project is great for learning:
 - Pseudo-elements usage
 - Z-index stacking contexts
 
+## Project Reference
+
+This project is based on the [Changelog Component](https://roadmap.sh/projects/changelog-component) project from roadmap.sh, a community-driven learning platform for web development.
+
 ## License
 
 This project is open source and available for personal and commercial use.
